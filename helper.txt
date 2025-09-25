@@ -1,0 +1,11 @@
+three types oftools in ADK function tools ,built in tool provided by google and third party tools.
+connect the adk agents  to llms models like openai. liteLLM libray ,openrouter 
+nvidia/nemotron-nano-9b-v2:free
+
+structured output
+
+session and memory ->session has the states and events where events are the message between we and the agents.
+
+in_memory session , database session ,vertex AI session(google clouds AI platform). 
+
+runner is collection of 2 peice of info agents and session needed to generate the response.
